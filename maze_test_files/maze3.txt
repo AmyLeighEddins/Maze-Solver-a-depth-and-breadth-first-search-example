@@ -1,0 +1,41 @@
+7 7
+xxx-xxx
+x--S--x
+x-----x
+-------
+xxxxxxx
+---F---
+-------
+
+No solution.
+
+Sample output using a depth-first strategy:
+    
+    //////////////////////////////
+    Maze file: maze3.txt
+    
+    Original maze: 
+    
+    xxx-xxx
+    x--S--x
+    x-----x
+    -------
+    xxxxxxx
+    ---F---
+    -------
+    
+    Explored maze: 
+    
+    xxx.xxx
+    x..S..x
+    x.....x
+    .......
+    xxxxxxx
+    ---F---
+    -------
+    
+    Number of cells explored: 17 (35%)
+    
+    This maze has no solution.
+    
+    

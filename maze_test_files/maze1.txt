@@ -1,0 +1,45 @@
+5 5
+Sx-xx
+---xx
+-x---
+-x-x-
+x--xF
+
+
+This is a traditional top-left/bottom-right maze with
+a single solution. 
+
+Sample output using a depth-first strategy:
+
+    
+    //////////////////////////////
+    Maze file: maze1.txt
+    
+    Original maze: 
+    
+    Sx-xx
+    ---xx
+    -x---
+    -x-x-
+    x--xF
+    
+    Explored maze: 
+    
+    Sx-xx
+    oooxx
+    .xooo
+    .x.xo
+    x..xF
+    
+    Number of cells explored: 13 (52%)
+    
+    Solution: 
+    
+    (0,0)->(1,0)->(1,1)->(1,2)->(2,2)->(2,3)->(2,4)->(3,4)->(4,4)
+    
+    Number of steps in solution: 9
+    
+    
+    
+    
+    

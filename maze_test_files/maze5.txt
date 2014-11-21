@@ -1,0 +1,49 @@
+7 7
+-------
+-xS-x--
+-x--x--
+-x--xF-
+-x--x--
+-x--xx-
+-------
+
+Island walls.
+
+Sample output using a depth-first strategy:
+
+    
+    //////////////////////////////
+    Maze file: maze5.txt
+    
+    Original maze: 
+    
+    -------
+    -xS-x--
+    -x--x--
+    -x--xF-
+    -x--x--
+    -x--xx-
+    -------
+    
+    Explored maze: 
+    
+    -------
+    -xS-x--
+    -xo-x--
+    -xo-xF-
+    -xo-xoo
+    -xo-xxo
+    --ooooo
+    
+    Number of cells explored: 13 (27%)
+    
+    Solution: 
+    
+    (1,2)->(2,2)->(3,2)->(4,2)->(5,2)->(6,2)->(6,3)->(6,4)->(6,5)->(6,6)->(5,6)->(4,6)->(4,5)->(3,5)
+    
+    Number of steps in solution: 14
+    
+    
+    
+    
+    
